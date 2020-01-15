@@ -1,2 +1,4 @@
 name: Allan Arriaga, Developer
 markdown: kramdown
+
+theme: jekyll-theme-midnight
